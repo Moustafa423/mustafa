@@ -1,0 +1,10 @@
+{
+    "id": "product id",
+    "interest": "The rate of interest",
+    "namr": "Product name",
+    "min_amount": "Minimum amount allowed to be loaned",
+    "max_amount": "Max amount allowed to be loaned",
+    "min_tenure": "Minimum number of months allowed",
+    "max_tenure": "Maximum number of months allowed",
+    "image": "Image to use as the icon"
+}
